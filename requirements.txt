@@ -19,7 +19,7 @@ flake8==3.7.5
 future==0.17.1
 google-auth==1.6.2
 idna==2.8
-Jinja2==2.10
+Jinja2>=2.10.1
 jmespath==0.9.3
 jsondiff==1.1.1
 jsonpickle==1.1
@@ -43,7 +43,7 @@ pyparsing==2.3.1
 python-dateutil==2.8.0
 python-jose==2.0.2
 pytz==2018.9
-PyYAML==3.13
+PyYAML>=4.2b1
 redis==3.2.1
 requests==2.21.0
 requests-oauthlib==1.2.0
